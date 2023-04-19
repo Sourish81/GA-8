@@ -9,4 +9,4 @@ elif (B >= A) and (B >= C):
  largest = B
 else:
  largest = C
-print("The largest number between",A,",",B,"and",C,"is",largest)
+st.write("Largest number", largest)
